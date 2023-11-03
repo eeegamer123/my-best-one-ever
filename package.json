@@ -1,0 +1,12 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "live": "^0.1.24",
+    "sdk": "^0.5.0",
+    "server": "^1.0.38",
+    "style.css": "^1.0.3"
+  }
+}
